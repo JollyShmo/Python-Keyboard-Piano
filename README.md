@@ -20,11 +20,11 @@ The application features:
 1. Ensure you have Python 3.x installed on your system.
 2. Install the Pygame library by running the following command: pip install pygame
 3. Clone this repository to your local machine:
-4. git clone https://github.com/your-username/keyboard-piano.git
+4. git clone https://github.com/JollyShmo/Python-Keyboard-Piano.git
 5. Navigate to the project directory:
-cd keyboard-piano
-6. Run the application: python piano.py
-7. 
+cd Python-Keyboard-Piano
+6. Run the application: python Piano.py
+
 ## Usage
 
 - Use the computer keyboard to play the piano keys. The mapping of keys to notes is defined in the code.
