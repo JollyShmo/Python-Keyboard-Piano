@@ -55,7 +55,7 @@ font = pygame.font.Font(None, 24)
 # Main loop
 running = True
 while running:
-    # Handle events
+# Handle events
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
@@ -95,10 +95,10 @@ while running:
                 selected_instrument = slider_value
                 output.set_instrument(selected_instrument)
 
-    # Clear the window
+# Clear the window
     window.fill(WHITE)
 
-    # Draw the piano keys
+# Draw the piano keys
     key_width = window_width // len(keys)
     for i, (key, note) in enumerate(keys.items()):
         key_rect = pygame.Rect(i * key_width, 0, key_width, window_height)
@@ -106,7 +106,7 @@ while running:
         pygame.draw.rect(window, key_color, key_rect)
         pygame.draw.rect(window, BLACK, key_rect, 1)
 
-    # Draw the slider menu
+# Draw the slider menu
     pygame.draw.rect(window, GRAY, slider_rect)
     pygame.draw.rect(window, BLACK, slider_rect, 1)
     slider_handle_x = int((slider_value / (slider_max_value - slider_min_value)) * slider_rect.width)
@@ -118,7 +118,7 @@ while running:
     value_text_rect = value_text.get_rect(center=slider_rect.center)
     window.blit(value_text, value_text_rect)
 
-    # Update the display
+# Update the display
     pygame.display.flip()
 
 # Clean up
