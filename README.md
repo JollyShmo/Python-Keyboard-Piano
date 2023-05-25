@@ -1,5 +1,5 @@
 # Python-Keyboard-Piano
-# Keyboard Piano with Pygame
+## Keyboard Piano with Pygame
 
 This is a simple keyboard piano application built with Pygame. It allows you to play piano keys using your computer keyboard.
 
