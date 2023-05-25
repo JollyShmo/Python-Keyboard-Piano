@@ -1,5 +1,6 @@
 import pygame
 import pygame.midi
+import os
 
 # Initialize Pygame
 pygame.init()
