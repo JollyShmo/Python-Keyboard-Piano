@@ -40,7 +40,6 @@ python Piano.py
 - Use the computer keyboard to play the piano keys. The mapping of keys to notes is defined in the code.
 - Use the left and right arrow keys to navigate through the instrument selection menu.
 - Click and drag the slider to choose the desired MIDI instrument.
-- Press the Q key to quit the application.
 
 ## License
 
