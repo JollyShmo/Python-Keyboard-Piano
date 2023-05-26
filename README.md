@@ -13,8 +13,9 @@ The application features:
 - Slider menu to select MIDI instrument
 - Interactive piano keys that light up when pressed
 
-![Keyboard Piano1](Pic_1.png)
-![Keyboard Piano2](Pic_2.png)
+![Keyboard Piano1](pic_1.png)
+
+![Keyboard Piano2](pic_2.png)
 ## Installation
 
 1. Ensure you have Python 3.x installed on your system.
