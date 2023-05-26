@@ -1,4 +1,4 @@
-# Keyboard Piano
+# Python Keyboard Piano
 
 A simple virtual piano application implemented in Python using the Pygame library.
 
