@@ -9,6 +9,10 @@ This project implements a virtual piano application using the Pygame library in 
 The application features:
 
 - Mapping of computer keys to piano keys
+- (1, 2, 3...) to the '=' key 
+- (q,w,e,r...) to the ']' key 
+- (a,s,d,f...) to the ''' key 
+- (z,x,c,v...) to the 'm' key
 - MIDI output for generating musical notes
 - Slider menu to select MIDI instrument
 - Interactive piano keys that light up when pressed (lights up a bar in red)
