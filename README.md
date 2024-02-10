@@ -21,16 +21,15 @@ The application features:
 
 ![Keyboard Piano2](pic_2.JPG)
 ## Installation
-<a href="https://github.com/JollyShmo/Python-Keyboard-Piano/blob/main/Piano.py">
-> Download Here <
-</a>
-
+### [Download Here](https://github.com/JollyShmo/Python-Keyboard-Piano/archive/refs/heads/main.zip)
 1. Ensure you have Python 3.x installed on your system.
 2. Install the Pygame library by running the following command:
 `pip install pygame`
 
-3. Run the application:
-`python Piano.py`
+4. Unzip `Python-Keyboard-Piano-main.zip`
+
+5. Run the application:
+`python Piano.py` or open the file `Piano.py`
 
 ## Usage
 
