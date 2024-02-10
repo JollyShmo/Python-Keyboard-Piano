@@ -17,9 +17,8 @@ The application features:
 - Slider menu to select MIDI instrument
 - Interactive piano keys that light up when pressed (lights up a bar in red)
 
-![Keyboard Piano1](pic_1.JPG)
+![Keyboard Piano1](sample_piano.png)
 
-![Keyboard Piano2](pic_2.JPG)
 ## Installation
 ### [Download Here](https://github.com/JollyShmo/Python-Keyboard-Piano/archive/refs/heads/main.zip)
 1. Ensure you have Python 3.x installed on your system.
